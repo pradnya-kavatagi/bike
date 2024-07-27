@@ -4,4 +4,6 @@ to
 gpt
 come
 to
-lab
+lab 
+full 
+stack
